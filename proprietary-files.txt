@@ -1034,7 +1034,7 @@ odm/lib64/camera/plugins/com.xiaomi.plugin.sdsr.so
 odm/lib64/camera/plugins/com.xiaomi.plugin.sr.so
 odm/lib64/camera/plugins/com.xiaomi.plugin.supermoon.so
 odm/lib64/camera/plugins/com.xiaomi.plugin.tsskinbeautifier.so|c6cf84066319f8a59b7abf23bf89db5c64aa3df2
-odm/lib64/camera/aon_front.pb
+odm/lib64/camera/aon_front.pb;SYMLINK=vendor/lib64/camera/aon_front.pb
 odm/lib64/camera/com.qti.actuator.ishtar_semco_imx858_ak7314_tele3x_actuator.so
 odm/lib64/camera/com.qti.actuator.ishtar_semco_imx858_ak7316_ultra_actuator.so
 odm/lib64/camera/com.qti.actuator.ishtar_semco_imx858_sem1217s_tele5x_actuator.so
